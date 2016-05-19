@@ -16,7 +16,8 @@
 #+END_HTML
 
 * Overview & Logistics
-
+* 
+* 
 ** Expectations
 
 + You will be writing actual *code*
@@ -412,6 +413,7 @@ These exercises can be found in Codepen [[http://codepen.io/jlehman/pen/RrMBOv?e
 + Arguments to and results from functions can be any kind of data
 
 * Next Steps
+** Practice!
 
 ** Questions about Hack Reactor & Reactor Prep?
 
